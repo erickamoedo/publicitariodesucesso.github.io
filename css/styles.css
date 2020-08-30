@@ -31,12 +31,12 @@ html {
 }
 
 body, p {
-	color: #585f63; 
+	color: #fff; 
 	font: 400 1rem/1.75rem "Open Sans", sans-serif;
 }
 
 h1 {
-	color: #30292a;
+	color: #fff;
 	font: 700 2.5rem/3.25rem "Open Sans", sans-serif;
 }
 
@@ -432,6 +432,7 @@ canvas {
 	min-height: 100%;
 	padding-top: 5rem;
 	text-align: center;
+background-color: #7e00ff;
 }
 
 .header .logo-image {
